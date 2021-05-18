@@ -40,5 +40,5 @@
 
 ## Contact
 
-- Codepen [](https://codepen.io/vanessasg)
+- Codepen [@vanessasg](https://codepen.io/vanessasg)
 - GitHub [@vanessasg](https://github.com/vanessasg)
